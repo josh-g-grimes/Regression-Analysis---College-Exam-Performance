@@ -10,7 +10,7 @@ I was a high school educator for eight years and I want to use my data science u
 
 ## Data Understanding
 
-The data I’m using for this analysis comes from the data science community website, Kaggle. There are 20 features and 6,607 records that are described clearly. The features include: hours studied, attendance, parental involvement, participation in extracurricular activities, sleep, previous scores, motivation, internet access, tutoring, family income, teacher quality, school type, peer influence, physical activity, learning disabilities, parental education level, distance from home, and gender. The data is stored in a csv file with integer and object variables. Descriptive statistics and value counts are available for all of the numerical and categorical data in the set.
+The [data](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data) I’m using for this analysis comes from the data science community website, [Kaggle](https://www.kaggle.com/). There are 20 features and 6,607 records that are described clearly. The features include: hours studied, attendance, parental involvement, participation in extracurricular activities, sleep, previous scores, motivation, internet access, tutoring, family income, teacher quality, school type, peer influence, physical activity, learning disabilities, parental education level, distance from home, and gender. The data is stored in a csv file with integer and object variables. Descriptive statistics and value counts are available for all of the numerical and categorical data in the set.
 
 These data are suitable for this project because the features are all relavent towards things that a college student has to balance when they go to school. There are also some features that it would be interesting to know if they are significant or not towards a student doing well on an exam. There are some features that I would think would be interesting to add in the future. For example, there are features on physical activity but I'd like to see if diet affects exam scores as well. The 'freshman 15' is a well-known phenomenon where a freshman gains fifteen pounds his/her first year at college and I wonder if that impacts exam scores as well.
 
@@ -77,7 +77,7 @@ I plotted the predicted results from the model with the actual test scores from 
 
 ## For More Information
 
-See the full analysis in the Jupyter Notebook or review this presentation. 
+See the full analysis in the Jupyter Notebook or review this [presentation](https://github.com/josh-g-grimes/Regression-Analysis---College-Exam-Performance/blob/main/presentation.pdf). 
 
 For additional info, contact Josh Grimes at josh.g.grimes@gmail.com
 
@@ -87,4 +87,4 @@ For additional info, contact Josh Grimes at josh.g.grimes@gmail.com
 * README.md
 * [data](https://github.com/josh-g-grimes/Regression-Analysis---College-Exam-Performance/blob/main/StudentPerformanceFactors.csv)
 * [notebook.ipynb](https://github.com/josh-g-grimes/Regression-Analysis---College-Exam-Performance/blob/main/notebook.ipynb)
-* presentation
+* [presentation](https://github.com/josh-g-grimes/Regression-Analysis---College-Exam-Performance/blob/main/presentation.pdf)
