@@ -63,7 +63,7 @@ I plotted the predicted results from the model with the actual test scores from 
 *   **Conclusion 2:**  Sleep, Public vs. Private College, and Gender are insignificant in predicting exam scores.
 *   **Conclusion 3:** The follwing table shows which features most positively 
 
-<img width="259" alt="Screenshot 2024-09-23 130757" src="https://github.com/user-attachments/assets/a70605dd-c781-40f7-93f7-967c5fae6537">
+<img width="236" alt="coefficient" src="https://github.com/user-attachments/assets/785af1c6-91ee-4798-97e3-759325e4e3d4">
 
 ## Next Steps
 
